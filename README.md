@@ -1,4 +1,4 @@
-# Enterprise Churn Prediction System v3.0
+# Churn Prediction System
 
 > A production-ready machine learning solution for predicting customer churn with explainability and business-driven recommendations.
 
